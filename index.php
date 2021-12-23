@@ -19,8 +19,6 @@
 
     </form>
 
-    <a href="destroy_session.php">Vider les sessions</a>
-
         <br />
 
     <a href="convertisseur_horaire.php">Convertisseur Horaire</a>
@@ -36,6 +34,10 @@
         <br />
 
     <a href="prospectus.php">Prospectus</a>
+
+        <br />
+
+    <a href="destroy_session.php">Vider les Sessions</a>
 
         <br />
         <br />
